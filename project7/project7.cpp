@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+	cout << "hello word" << endl;
 	double y, x, h, minX, maxX;
 	cout << "Enter [minX, maxX], h ";
 	cin >> minX >> maxX >> h;
