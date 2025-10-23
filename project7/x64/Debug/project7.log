@@ -1,0 +1,10 @@
+﻿  project7.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iomanip(30,23): error C2338: static_assert failed: 'wrong character type for setfill'
+  (компиляция исходного файла "project7.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iomanip(30,23):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\yaros\source\repos\project7\project7\project7.cpp(20,19):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::_Fillobj<int> &)"
+              C:\Users\yaros\source\repos\project7\project7\project7.cpp(20,45):
+              см. первую ссылку на "std::operator <<" в "main"
+  
