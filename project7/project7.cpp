@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 #include <iomanip>
+#include "cmath"
+
 using namespace std;
 int main()
 {
@@ -17,7 +19,7 @@ int main()
 
 	}
 	cout << "\n\tDO_WHILE\n" << setw(8) << "x|" << setw(7) << "y" << endl;
-	cout << setw(16) << setfill(' - ') << '\n' << setfill(' ');
+	cout << setw(16) << setfill('-') << "\n" << setfill(' ');
 	x = minX;
 	do {
 		y = sin(x) + pow(x, 2);

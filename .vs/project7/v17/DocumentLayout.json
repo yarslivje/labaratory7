@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{D69F53C8-3005-4394-B5D5-B2036F9F22EF}|project7\\project7.vcxproj|C:\\Users\\yaros\\source\\repos\\project7\\project7\\project7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D69F53C8-3005-4394-B5D5-B2036F9F22EF}|project7\\project7.vcxproj|solutionrelative:project7\\project7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69F53C8-3005-4394-B5D5-B2036F9F22EF}|project7\\project7.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\IOMANIP||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +17,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iomanip",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-25T19:48:12.687Z"
             },
             {
               "$type": "Document",
@@ -28,7 +43,7 @@
               "RelativeDocumentMoniker": "project7\\project7.cpp",
               "ToolTip": "C:\\Users\\yaros\\source\\repos\\project7\\project7\\project7.cpp",
               "RelativeToolTip": "project7\\project7.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAewA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-16T09:40:29.003Z",
               "EditorCaption": ""
